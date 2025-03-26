@@ -14,3 +14,11 @@ A simple Python script that automatically checks the uptime of multiple websites
 * Provides real-time logs for each website’s status.
 
 * Supports graceful shutdown with a clean exit.
+  
+
+# 📌 How to Download and Run the Website Status Checker </br>
+1. Clone the repository or download the zip file.
+2. Ensure Python is installed on your system (python 3.12 recommended)
+3. Install the required packages
+   ` pip install -r requirements.txt `
+4. Run the script ` python site_checker.py `
